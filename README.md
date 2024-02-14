@@ -1,4 +1,4 @@
-# Customer Satisfaction Based on Comment
+# Customer Satisfaction Based on Review
 This is a Multiclass text classification project (using Neural Language Processing) in IDCamp Class.
 This dataset is taken from Kaggle https://www.kaggle.com/datasets/nelgiriyewithana/shoppersentiments 
 This extensive dataset, comprised of over 250,000 customer reviews, offers a detailed exploration of customer experiences on TeePublic, 
